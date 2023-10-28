@@ -22,7 +22,6 @@ Super Home Controller streamlines home automation by empowering users to schedul
 
 ## User Interface
 
-![image](https://github.com/Shanb98/SmartHome/assets/130221905/46ced1b2-923a-4deb-b337-6e4e1a935ff2)
 ![image](https://github.com/Shanb98/SmartHome/assets/130221905/80307b48-660e-4d1b-a808-26976661b977)
 ![image](https://github.com/Shanb98/SmartHome/assets/130221905/909d0c90-bcd3-4a73-bd0f-b391c7e0e83f)
 ![image](https://github.com/Shanb98/SmartHome/assets/130221905/b14232b5-a3a6-470a-b6d5-aa60ae26d811)
